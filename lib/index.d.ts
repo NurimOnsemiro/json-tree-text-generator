@@ -1,4 +1,4 @@
-declare function generateTreeText(
+export declare function generateTreeText(
     obj: object,
     depthFriends?: boolean[],
     ret?: string
