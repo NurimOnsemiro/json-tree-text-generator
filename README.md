@@ -1,4 +1,4 @@
-# json-tree-text-generator
+# JSON Tree Text Generator
 
 A Node.js library that provides a function to generate text-based tree representations of JSON objects.
 
