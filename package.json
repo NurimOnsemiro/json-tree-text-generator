@@ -1,13 +1,11 @@
 {
   "name": "json-tree-text-generator",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "./lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "Honsemiro <remocon33@naver.com>",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
